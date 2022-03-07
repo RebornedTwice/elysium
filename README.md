@@ -17,7 +17,7 @@
     > Elysium is created, founded, and scripted by clocks#0001. 
 ```
     **What executors does Elysium support?** 
-    ```
+```
     > Elysium supports Synapse X, KRNL, Script-Ware, and others. 
 ```
 **Is Elysium free?** 

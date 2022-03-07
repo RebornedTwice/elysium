@@ -7,7 +7,8 @@
     > Big Paintball [2/2 Sections Finished], 
     > Counter Blox [2/4 Sections Finished], 
     > Adopt Me [2/2 Sections Finished], 
-    > Ninja Legends [1/1 Sections Finished]
+    > Ninja Legends [1/1 Sections Finished],
+    > Sound Space [3/3 Sections Finished]
 ```
 # FAQ & Info
 **What is Elysium?** 

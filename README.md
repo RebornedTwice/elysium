@@ -57,7 +57,6 @@
         > By using our services, you acknowledge the fact that you can be blacklisted from the service at any time and for any reason.
         > By using our services, you acknowledge that your data that is logged when you execute.
         > By using our services, you acknowledge that any actions that you take with the service will fall upon you.
-        > By using our services, you acknowledge that we can sell our your log if you attempt to reverse engineer or crack our service in any way or form.
 ```
 **The data we collect**
 ```

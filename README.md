@@ -1,14 +1,13 @@
 # Games
 **Currently supported games:** 
 ```
-    > Da Hood [6/6 Sections Finished], 
-    > Da Hood Modded [5/5 Sections Finished], 
-    > Arsenal [2/2 Sections Finished], 
-    > Big Paintball [2/2 Sections Finished], 
-    > Counter Blox [2/4 Sections Finished], 
-    > Adopt Me [2/2 Sections Finished], 
-    > Ninja Legends [1/1 Sections Finished],
-    > Sound Space [3/3 Sections Finished]
+    > Da Hood [6/6 Sections Finished], -- Released PUBLIC
+    > Da Hood Modded [5/5 Sections Finished], -- Released PRIVATE
+    > Arsenal [2/2 Sections Finished], -- Released PRIVATE
+    > Ninja Legends [1/1 Sections Finished], -- Released PRIVATE
+    > Sound Space [3/3 Sections Finished], -- Released PRIVATE
+    > Robeats [2/3 Sections Finished], -- Unreleased
+    > Bloxburg [1/2 Sections Finished] -- Unreleased
 ```
 # FAQ & Info
 **What is Elysium?** 

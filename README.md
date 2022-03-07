@@ -35,6 +35,7 @@
     > Elysium is one of the largest communities with over 15,000 members in their Discord server. 
     > Elysium is constantly being improved and kept up to date. 
     > Elysium is fully undetected, so you won't ever get banned using it.
+    > Elysium does not have any execution logs, nor will it ever have. We respect our user's privacy.
 ```
 # Discord
 https://discord.gg/spaceware

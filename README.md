@@ -38,7 +38,7 @@
 **How do I suggest a game?**
 ```
     > You can always DM clocks#0001 or send a direct message in the #suggestions channel to request support for a certain game.
-    > When suggesting games, make sure to include whether or not the game has an effective or strong anti cheat.
+    > When suggesting games, make sure to state whether or not the game has an effective or strong anti cheat.
     > Always include details on what it is that you'd like for the script.
 ```
 # Other
@@ -47,7 +47,6 @@
     > Elysium is one of the largest communities with over 15,000 members in their Discord server. 
     > Elysium is constantly being improved and kept up to date. 
     > Elysium is fully undetected, so you won't ever get banned using it.
-    > Elysium does not sell or leak your execution logs to anyone.
 ```
 **Terms of Service & Agreements**
 ```

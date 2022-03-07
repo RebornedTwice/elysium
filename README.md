@@ -48,6 +48,11 @@
         > By using our services, you acknowledge that your data that is logged when you execute.
         > By using our services, you acknowledge that we can sell our your log if you attempt to reverse engineer or crack our service in any way or form.
 ```
+**The data we collect**
+```
+    > When you execute Elysium, your Username, UserID, and JobID is collected via a Discord webhook.
+    > This dats is used for the purposes of blacklisting, evaluation, and just checking downtime or uptime on the service.
+```
 # Discord
 https://discord.gg/spaceware
 # Script

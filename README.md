@@ -29,6 +29,10 @@
 ```
     > You can DM clocks#0001 at any time or email clockworksbusiness@outlook.com to get support.
 ```
+**Will I get banned using Elysium?**
+```
+    > Elysium is and will remain fully undetected, so you won't ever have to worry about being banned!
+```
 # Other
 **Why should you choose Elysium?** 
 ```

@@ -16,7 +16,7 @@
     > Elysium is a independent, free-to-use project that is constantly being improved. 
     > Elysium is created, founded, and scripted by clocks#0001. 
 ```
-    **What executors does Elysium support?** 
+**What executors does Elysium support?** 
 ```
     > Elysium supports Synapse X, KRNL, Script-Ware, and others. 
 ```

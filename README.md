@@ -32,6 +32,8 @@
 **Will I get banned using Elysium?**
 ```
     > Elysium is and will remain fully undetected, so you won't ever have to worry about being banned!
+    > If any player gets banned, we will look into it. Often, the game might update, resulting in something being patched.
+    > While Elysium is undetected, you are not. So be aware of ban waves as you can get caught in one of them.
 ```
 # Other
 **Why should you choose Elysium?** 
@@ -57,7 +59,7 @@
     > When you execute Elysium, your Username, UserID, and JobID is collected via a Discord webhook.
     > This dats is used for the purposes of blacklisting, evaluation, and just checking downtime or uptime on the service.
 ```
-# Discord
+# Discord [ For Key ]
 https://discord.gg/spaceware
 # Script
 ```

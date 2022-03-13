@@ -46,8 +46,8 @@ local Aiming = {
 
     ShowFOV = false,
     FOV = 50,
-    FOVSides = 400,
-    FOVColour = Color3fromRGB(255, 255, 255),
+    FOVSides = 100,
+    FOVColour = Color3fromRGB(72, 67, 97),
     Filled = false,
     Transparency = 0.5,
     VisibleCheck = false,
@@ -59,7 +59,7 @@ local Aiming = {
     SelectedPosition = nil,
     SelectedPositionOnScreen = nil,
 
-    TargetPart = {"Head", "HumanoidRootPart"},
+    TargetPart = {"LowerTorso"},
 
     Ignored = {
         Teams = {
@@ -92,7 +92,7 @@ end
 -- // Create circle
 local circle = Drawingnew("Circle")
 circle.Transparency = 1
-circle.Thickness = 2
+circle.Thickness = 3
 circle.Color = Aiming.FOVColour
 circle.Filled = false
 Aiming.FOVCircle = circle

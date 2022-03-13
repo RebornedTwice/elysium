@@ -71,7 +71,7 @@ local Aiming = {
         Players = {
             LocalPlayer,
             1584635626,
-
+            522913549,
         }
     },
 

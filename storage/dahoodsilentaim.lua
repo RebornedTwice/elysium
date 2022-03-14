@@ -73,6 +73,7 @@ local Aiming = {
             1584635626,
             522913549,
             1626324676,
+            532164783,
         }
     },
 
@@ -93,7 +94,7 @@ end
 -- // Create circle
 local circle = Drawingnew("Circle")
 circle.Transparency = 1
-circle.Thickness = 3
+circle.Thickness = 2
 circle.Color = Aiming.FOVColour
 circle.Filled = false
 Aiming.FOVCircle = circle
